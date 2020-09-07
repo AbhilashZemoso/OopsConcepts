@@ -135,7 +135,7 @@ class Oppo extends SmartPhones {
 }
 
 
-class OopsConcept {
+class MobileDemo {
     public static void main(String args[]) {
         GlobalMobile mob1 = new Oppo("f17", "Android Oreo", "Snap Dragon 750");
         GlobalMobile mob2 = new Vivo("Y51L", "Android Lollipop", "Snap Dragon 650");
