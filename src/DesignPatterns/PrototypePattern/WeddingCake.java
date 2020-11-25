@@ -1,10 +1,9 @@
 package DesignPatterns.PrototypePattern;
 
 class WeddingCake extends BasicCake {
-    WeddingCake() {
-    }
 
     WeddingCake(String name) {
+        System.out.println("=======>>Wed cake cons");
         setDetails(name);
         addAddOns("Couple Candles");
     }
