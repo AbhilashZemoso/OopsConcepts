@@ -1,12 +1,12 @@
 package DesignPatterns.FacadePattern;
 
-public class RobotHands {
+public class ToyHands {
     public void setMilanoHands() {
-        System.out.println(" The robot will have EH1 Milano hands.");
+        System.out.println(" The Toy will have EH1 Milano hands.");
     }
 
     public void setRobonautHands() {
-        System.out.println(" The robot will have Robonaut hands.");
+        System.out.println(" The Toy will have Robonaut hands.");
     }
 
     public void resetMilanoHands() {
